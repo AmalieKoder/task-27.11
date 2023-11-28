@@ -1,5 +1,7 @@
 // A function when you write a name it should appear in HTML
 
+// Task One
+
 function submitName() {
     let nameInput = document.querySelector("#textInput").value;
     console.log(nameInput);
@@ -15,6 +17,8 @@ button.addEventListener("click", submitName);
 
 
 // A function when you write a username, email and password it should appear in HTML when you click this send button
+
+// Task Two
 
 function submitUsernameEmailPassword() {
     let userName = document.querySelector("#userName").value;
