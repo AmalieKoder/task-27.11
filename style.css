@@ -4,4 +4,11 @@ body {
     height: 100vh;
 }
 
+h1 {
+    font-style: italic;
+    color: #ddfbd2;
+}
 
+p {
+    font-style: italic;
+}
